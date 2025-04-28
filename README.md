@@ -15,3 +15,5 @@ Install required dependencies:
 ```bash
 pip install requests
 ```
+
+Was a very very basic api library script I was using before discovering atlassian's official api library
